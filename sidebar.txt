@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[daj:home|Door43 (daj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-daj|d43-daj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-daj/archive/master.zip|d43-daj.zip]]
+
+**Recent Changes**
+{{changes>ns = daj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/daj|Ethnologue data]]
+
